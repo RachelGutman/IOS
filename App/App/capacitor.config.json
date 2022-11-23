@@ -1,0 +1,9 @@
+{
+	"appId": "app.zendaylabs",
+	"appName": "Zenday",
+	"webDir": "dist/ZendayClient",
+	"bundledWebRuntime": false,
+	"server": {
+		"hostname": "app.zendaylabs.com"
+	}
+}
